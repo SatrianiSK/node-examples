@@ -1,0 +1,14 @@
+{
+  "name": "custom-module",
+  "version": "1.0.0",
+  "description": "Testing a custom module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SatrianiSK",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
